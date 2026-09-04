@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Hinna Parwez 👋
 
-<!--
-**hinnaparwezuc/hinnaparwezuc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- 🎓 Computer Science student at the University of Cincinnati
+- 💼 Current Role: Go-to-Market AI Applications Intern at Siemens
+- 🎯 Graduating in May 2027
+- 🌱 Interested in software engineering, data, and AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/hinna-parwez/)
+
+## Languages and Tools
+
+Python • Java • JavaScript • SQL • Power BI • Git • AWS • Microsoft Fabric
