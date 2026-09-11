@@ -1,4 +1,4 @@
-# Hi, I'm Hinna Parwez 👋
+# Hi, I'm Hinna Parwez
 
 ## About Me
 
