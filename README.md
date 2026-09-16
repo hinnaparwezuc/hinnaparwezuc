@@ -2,10 +2,10 @@
 
 ## About Me
 
-- 🎓 Computer Science student at the University of Cincinnati
-- 💼 Current Role: Go-to-Market AI Applications Intern at Siemens
-- 🎯 Graduating in May 2027
-- 🌱 Interested in software engineering, data, and AI
+-  Computer Science student at the University of Cincinnati
+-  Current Role: Go-to-Market AI Applications Intern at Siemens
+-  Graduating in May 2027
+-  Interested in software engineering, data, and AI
 
 ## Connect With Me
 
