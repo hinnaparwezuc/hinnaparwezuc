@@ -1,5 +1,7 @@
 # Hi, I'm Hinna Parwez
 
+CS student at the University of Cincinnati, graduating May 2027. Building full-stack and AI applications in Python, Java, and JavaScript. Currently Go-to-Market AI Applications Intern at Siemens. Looking for new grad software engineering and AI/data roles.
+
 ## About Me
 
 -  Computer Science student at the University of Cincinnati
