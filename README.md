@@ -1,10 +1,10 @@
 # Hi, I'm Hinna Parwez
 
-CS student at the University of Cincinnati (graduating May 2027), currently a **Go-To-Market AI Applications Intern at Siemens**. I build full-stack and AI applications in Python, Java, and JavaScript, and I'm looking for new grad **software engineering** and **AI/data** roles.
+CS student at the University of Cincinnati (graduating May 2027), currently a **Go-To-Market AI Applications Intern at Siemens**. I build full-stack and AI applications in Python, Java, and JavaScript, and I'm looking for new grad software engineering and AI/data roles.
 
 ## What I'm working on
-- Designing and shipping **generative AI agents** in Python at Siemens (30+ deployed to an internal catalog)
-- Building an **AI-powered email automation** on Clay for the Go-To-Market team
+- Designing and shipping generative AI agents in Python at Siemens (30+ deployed to an internal catalog)
+- Building an AI-powered email automation on Clay for the Go-To-Market team
 - Exploring retrieval and vector search through personal projects
 
 ## Featured Projects
