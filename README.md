@@ -8,9 +8,9 @@ CS student at the University of Cincinnati (graduating May 2027), currently a **
 - Exploring retrieval and vector search through personal projects
 
 ## Featured Projects
-- **Visual Search Engine** — image & text search over a shared embedding space, with a Hierarchical Navigable Small World (HNSW) index implemented from scratch *(Python, OpenCLIP, FAISS)*
-- **Agent FSM Guardrails** — a finite-state-machine layer that constrains LLM agent workflows to a valid transition graph *(Python, pytest)*
-- **Team Messenger App** — real-time chat with live search and input sanitization, deployed on Azure with CI/CD *(Node.js, Express, Socket.IO, MongoDB)*
+- **Visual Search Engine** — Image & text search over a shared embedding space, with a Hierarchical Navigable Small World (HNSW) index implemented from scratch *(Python, OpenCLIP, FAISS)*
+- **Agent FSM Guardrails** — A finite-state-machine layer that constrains LLM agent workflows to a valid transition graph *(Python, pytest)*
+- **Team Messenger App** — Real-time chat with live search and input sanitization, deployed on Azure with CI/CD *(Node.js, Express, Socket.IO, MongoDB)*
 
 ## Languages & Tools
 - **Languages:** Python · Java · JavaScript/TypeScript · C++ · SQL
